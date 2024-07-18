@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning advanced Python and AI technologies.
 - 💞️ I’m looking to collaborate on data-driven projects and open-source initiatives.
 - 📫 How to reach me: lakshayjain9695@gmail.com
+- 📚 My Portfolio:-https://lakshay-jain-portfolio.netlify.app/
 - 😄 Pronouns: He/Him/vishu
 - ⚡ Fun fact: I love exploring new tech and building creative solutions!
 
